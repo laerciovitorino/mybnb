@@ -1,0 +1,32 @@
+h1 {
+  display: block;
+  margin-top: 2rem;
+  text-align: center;
+}
+
+hr {
+  margin-bottom: 2rem;
+  margin-left: 2.5rem;
+}
+
+li {
+  list-style-type: none;
+}
+
+img {
+  height: 16rem;
+}
+
+.card {
+  box-shadow: 1px 2px 3px grey;
+  width: 18rem;
+}
+
+.card-text {
+  align-items: baseline;
+}
+
+footer {
+  display: block;
+  text-align: center;
+}
